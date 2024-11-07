@@ -4,11 +4,6 @@
 ### 🩵 2차 개발 기간: 2023. 09. 15 ~ ing
 ### 👣 배포 주소: https://lovelyfub.netlify.app/main
 
-### 👀 ABOUT US
-
-![image](https://github.com/jjaei/project_lovelyfub/assets/120344687/6b307d7b-03a9-4177-ae2b-849ff83b481d)
-
-
 <br>
 
 ### 🛠️ 사용기술 및 도구
